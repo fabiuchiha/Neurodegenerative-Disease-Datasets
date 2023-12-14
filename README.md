@@ -22,26 +22,26 @@ Publication - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124498/#SD2
 
 Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104704
 
-## Dataset Alzheimer 4 - Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer's disease.
+## Dataset Alzheimer 4 - Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer's disease
 Publication - https://pubmed.ncbi.nlm.nih.gov/31915375/
 
 
 Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134576
 
-## Dataset Alzheimer 5 - Molecular signatures underlying neurofibrillary tangle susceptibility in Alzheimer’s disease
-Publication - https://www.cell.com/neuron/fulltext/S0896-6273(22)00600-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322006006%3Fshowall%3Dtrue
+## Dataset Parkinson 1 - Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection
+Publication - https://www.nature.com/articles/npre.2007.326.1
 
 
-Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134576
+Source - https://archive.ics.uci.edu/dataset/174/parkinsons
+
+## Dataset Parkinson 2 - Suitability of dysphonia measurements for telemonitoring of Parkinson's disease
+Publication - https://www.nature.com/articles/npre.2008.2298.1.
+
+
+Source - https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set/
 
 ## Dataset Autism 1 - Altered expression of histamine signaling genes in autism spectrum disorder
 Publication - https://pubmed.ncbi.nlm.nih.gov/28485729/
 
 
 Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102741
-
-## Dataset Parkinson 1 - A human single-cell atlas of the substantia nigra reveals novel cell-specific pathways associated with the genetic risk of Parkinson’s disease and neuropsychiatric disorders
-Publication - https://pubmed.ncbi.nlm.nih.gov/32889528/
-
-
-Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE140231
