@@ -1,14 +1,41 @@
 # Neurodegenerative-Diseases-Datasets
-Neurodegenerative diseases encompass a wide range of conditions that result from progressive damage to cells and nervous system connections that are essential for mobility, coordination, strength, sensation, and cognition. Neurodegenerative diseases affect millions of people worldwide. Although no complete cure exists for most of these complex neurological diseases, it is possible to introduce treatment plans at the right time with accurate prognosis. The exploration of neurodegenerative disease datasets contribute to further their understanding and allow the advancement of the state-of-the-art of developing early diagnostic tools and providing access to more effective personalized therapies. This repository contains a collection of mostly publicly available datasets of neurodegenerative diseases that can be studied for these purposes.
+Neurodegenerative diseases encompass a wide range of conditions that result from progressive damage to cells and nervous system connections that are essential for mobility, coordination, strength, sensation, and cognition. Neurodegenerative diseases affect millions of people worldwide. Although no complete cure exists for most of these complex neurological diseases, it is possible to introduce treatment plans at the right time with accurate prognosis. The exploration of neurodegenerative disease datasets contributes to further their understanding and allow the advancement of the state-of-the-art of developing early diagnostic tools and providing access to more effective personalized therapies. This repository contains a collection of mostly publicly available datasets of neurodegenerative diseases that can be studied for these purposes.
 
-## Dataset ALS 1 - Bringing Artificial Intelligence home for a better care of amyotrophic lateral sclerosis and multiple sclerosis
+## Dataset ALS 1
 Source - Private data, Brainteaser project - https://brainteaser.health/
+
+Title - Bringing Artificial Intelligence home for a better care of amyotrophic lateral sclerosis and multiple sclerosis
+
+Summary - 
+
+Size - 
+
+Dimension - 
+
+Format - 
+
+Language - 
+
+Year - 2023
 
 ## Dataset ALS 2 - Distinct brain transcriptome profiles in c9orf72-associated and sporadic ALS
 Publication - https://pubmed.ncbi.nlm.nih.gov/28637276/
 
-
 Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67196
+
+Title - 
+
+Summary - 
+
+Size - 
+
+Dimension - 
+
+Format - 
+
+Language - 
+
+Year - 2023
 
 ## Dataset Alzheimer 1 - Alzheimer's Disease and Healthy Aging Data
 Source - https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv/about_data
