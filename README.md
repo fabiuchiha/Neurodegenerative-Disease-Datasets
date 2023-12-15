@@ -1,4 +1,4 @@
-# Neurodegenerative-Disease-Datasets
+# Neurodegenerative Disease Datasets
 Neurodegenerative diseases encompass a wide range of conditions that result from progressive damage to cells and nervous system connections that are essential for mobility, coordination, strength, sensation, and cognition. Neurodegenerative diseases affect millions of people worldwide. Although no complete cure exists for most of these complex neurological diseases, it is possible to introduce treatment plans at the right time with accurate prognosis. The exploration of neurodegenerative disease datasets contributes to further their understanding and allow the advancement of the state-of-the-art of developing early diagnostic tools and providing access to more effective personalized therapies. This repository contains a collection of mostly publicly available datasets of neurodegenerative diseases that can be studied for these purposes.
 
 ## Dataset Amyotrophic Lateral Sclerosis 1
@@ -12,7 +12,7 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Size** - 8003 snapshots of the patient's condition over time
 
-**Dimension** - 48 features for each snapshot
+**Dimension** - 48 features (columns) for each snapshot (line)
 
 **Format** - CSV
 
@@ -46,13 +46,13 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Summary** - 
 
-**Size** - 
+**Size** - 250937 data points
 
-**Dimension** - 
+**Dimension** - 39 features
 
-**Format** - 
+**Format** - CSV
 
-**Language** - 
+**Language** - English
 
 **Year** - 2023
 
@@ -63,13 +63,13 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Summary** - 
 
-**Size** - 
+**Size** - 21015 data points
 
-**Dimension** - 
+**Dimension** - 37 features
 
-**Format** - 
+**Format** - CSV
 
-**Language** - 
+**Language** - English
 
 **Year** - 2023
 
@@ -82,34 +82,15 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Summary** - 
 
-**Size** - 
+**Size** - 27130 data points
 
-**Dimension** - 
+**Dimension** - 34 features
 
-**Format** - 
+**Format** - TXT
 
-**Language** - 
+**Language** - English
 
 **Year** - 2018
-
-## Dataset Alzheimer 4
-**Publication** - https://pubmed.ncbi.nlm.nih.gov/31915375/
-
-**Source** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134576
-
-**Title** - Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer's disease
-
-**Summary** - 
-
-**Size** - 
-
-**Dimension** - 
-
-**Format** - 
-
-**Language** - 
-
-**Year** - 2019
 
 ## Dataset Autism 1
 **Publication** - https://pubmed.ncbi.nlm.nih.gov/28485729/
@@ -120,13 +101,13 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Summary** - 
 
-**Size** - 
+**Size** - 57659 data points
 
-**Dimension** - 
+**Dimension** - 52 features/samples
 
-**Format** - 
+**Format** - XLSX
 
-**Language** - 
+**Language** - English
 
 **Year** - 2017
 
@@ -139,13 +120,13 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Summary** - 
 
-**Size** - 
+**Size** - 5875 data points
 
-**Dimension** - 
+**Dimension** - 22 features
 
-**Format** - 
+**Format** - DATA
 
-**Language** - 
+**Language** - English
 
 **Year** - 2007
 
@@ -158,13 +139,13 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Summary** - 
 
-**Size** - 
+**Size** - 195 data points
 
-**Dimension** - 
+**Dimension** - 23 features
 
-**Format** - 
+**Format** - DATA
 
-**Language** - 
+**Language** - English
 
 **Year** - 2008
 
