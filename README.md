@@ -27,7 +27,7 @@ Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67196
 
 Title - Distinct brain transcriptome profiles in c9orf72-associated and sporadic ALS
 
-Summary - 
+Summary - Increasing evidence suggests that defective RNA processing contributes to the development of amyotrophic lateral sclerosis. The authors analyzed RNA sequencing data from C9orf72-positive and sporadic ALS cases, as well as healthy controls.
 
 Size - 
 
@@ -37,12 +37,12 @@ Format -
 
 Language - 
 
-Year - 
+Year - 2015
 
-## Dataset Alzheimer 1 - Alzheimer's Disease and Healthy Aging Data
+## Dataset Alzheimer 1
 Source - https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv/about_data
 
-Title - 
+Title - Alzheimer's Disease and Healthy Aging Data
 
 Summary - 
 
@@ -54,12 +54,12 @@ Format -
 
 Language - 
 
-Year - 
+Year - 2023
 
-## Dataset Alzheimer 2 - Alzheimer's Disease and Healthy Aging Indicators: Cognitive Decline
+## Dataset Alzheimer 2
 Source - https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Indicators-C/jhd5-u276/about_data
 
-Title - 
+Title - Alzheimer's Disease and Healthy Aging Indicators: Cognitive Decline
 
 Summary - 
 
@@ -71,14 +71,14 @@ Format -
 
 Language - 
 
-Year - 
+Year - 2023
 
-## Dataset Alzheimer 3 - Dysregulation of the epigenetic landscape of normal aging in Alzheimer’s disease
+## Dataset Alzheimer 3
 Publication - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124498/#SD2
 
 Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104704
 
-Title - 
+Title - Dysregulation of the epigenetic landscape of normal aging in Alzheimer’s disease
 
 Summary - 
 
@@ -90,14 +90,14 @@ Format -
 
 Language - 
 
-Year - 
+Year - 2018
 
-## Dataset Alzheimer 4 - Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer's disease
+## Dataset Alzheimer 4
 Publication - https://pubmed.ncbi.nlm.nih.gov/31915375/
 
 Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134576
 
-Title - 
+Title - Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer's disease
 
 Summary - 
 
@@ -109,52 +109,14 @@ Format -
 
 Language - 
 
-Year - 
+Year - 2019
 
-## Dataset Parkinson 1 - Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection
-Publication - https://www.nature.com/articles/npre.2007.326.1
-
-Source - https://archive.ics.uci.edu/dataset/174/parkinsons
-
-Title - 
-
-Summary - 
-
-Size - 
-
-Dimension - 
-
-Format - 
-
-Language - 
-
-Year - 
-
-## Dataset Parkinson 2 - Suitability of dysphonia measurements for telemonitoring of Parkinson's disease
-Publication - https://www.nature.com/articles/npre.2008.2298.1.
-
-Source - https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set/
-
-Title - 
-
-Summary - 
-
-Size - 
-
-Dimension - 
-
-Format - 
-
-Language - 
-
-Year - 
-
-## Dataset Autism 1 - Altered expression of histamine signaling genes in autism spectrum disorder
+## Dataset Autism 1
 Publication - https://pubmed.ncbi.nlm.nih.gov/28485729/
 
 Source - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102741
 
-Title - 
+Title - Altered expression of histamine signaling genes in autism spectrum disorder
 
 Summary - 
 
@@ -166,4 +128,44 @@ Format -
 
 Language - 
 
-Year - 
+Year - 2017
+
+## Dataset Parkinson 1
+Publication - https://www.nature.com/articles/npre.2007.326.1
+
+Source - https://archive.ics.uci.edu/dataset/174/parkinsons
+
+Title - Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection
+
+Summary - 
+
+Size - 
+
+Dimension - 
+
+Format - 
+
+Language - 
+
+Year - 2007
+
+## Dataset Parkinson 2
+Publication - https://www.nature.com/articles/npre.2008.2298.1.
+
+Source - https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set/
+
+Title - Suitability of dysphonia measurements for telemonitoring of Parkinson's disease
+
+Summary - 
+
+Size - 
+
+Dimension - 
+
+Format - 
+
+Language - 
+
+Year - 2008
+
+
