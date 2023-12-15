@@ -1,5 +1,5 @@
 # Neurodegenerative Disease Datasets
-Neurodegenerative diseases encompass a wide range of conditions that result from progressive damage to cells and nervous system connections that are essential for mobility, coordination, strength, sensation, and cognition. Neurodegenerative diseases affect millions of people worldwide. Although no complete cure exists for most of these complex neurological diseases, it is possible to introduce treatment plans at the right time with accurate prognosis. The exploration of neurodegenerative disease datasets contributes to further their understanding and allow the advancement of the state-of-the-art of developing early diagnostic tools and providing access to more effective personalized therapies. This repository contains a collection of mostly publicly available datasets of neurodegenerative diseases that can be studied for these purposes.
+Neurodegenerative diseases encompass a wide range of conditions that result from progressive damage to cells and nervous system connections that are essential for mobility, coordination, strength, sensation, and cognition. Neurodegenerative diseases affect millions of people worldwide. Although no complete cure exists for most of these complex neurological diseases, it is possible to introduce treatment plans at the right time with accurate prognosis. The exploration of neurodegenerative disease datasets contributes to further their understanding and allow the advancement of the state-of-the-art of developing early diagnostic tools and providing access to more effective personalized therapies. This repository contains a collection of mostly publicly available datasets of neurodegenerative diseases that can be particularly useful to my PhD work where I will be applying network science techniques to study these diseases.
 
 ## Dataset Amyotrophic Lateral Sclerosis 1
 **Publication** - https://www.sciencedirect.com/science/article/pii/S153204641500221X
@@ -12,7 +12,7 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Size** - 8003 snapshots of the patient's condition over time
 
-**Dimension** - 48 features (columns) for each snapshot (line)
+**Dimension** - 48 features (columns) for each snapshot (rows)
 
 **Format** - CSV
 
@@ -44,7 +44,7 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Title** - Alzheimer's Disease and Healthy Aging Data
 
-**Summary** - 
+**Summary** - This data is publicly available to all without restrictions by Centers for Disease Control and Prevention (CDC), the United States leading science-based, data-driven, service organization that protects the public’s health. The Alzheimer’s Disease and Healthy Aging Data Portal provides easy access to national and state level CDC data on a range of key indicators of health and well-being for older adults, including caregiving, subjective cognitive decline, screenings, vaccinations and mental health. These indicators provide a snapshot of currently available surveillance information, and can be useful for prioritization and evaluation of public health interventions.
 
 **Size** - 250937 data points
 
@@ -61,7 +61,7 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Title** - Alzheimer's Disease and Healthy Aging Indicators: Cognitive Decline
 
-**Summary** - 
+**Summary** - This data is publicly available to all without restrictions by Centers for Disease Control and Prevention (CDC), the United States leading science-based, data-driven, service organization that protects the public’s health. The Alzheimer’s Disease and Healthy Aging Data Portal provides easy access to national and state level CDC data on a range of key indicators of health and well-being for older adults, including caregiving, subjective cognitive decline, screenings, vaccinations and mental health. These indicators provide a snapshot of currently available surveillance information, and can be useful for prioritization and evaluation of public health interventions.
 
 **Size** - 21015 data points
 
@@ -80,7 +80,7 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Title** - Dysregulation of the epigenetic landscape of normal aging in Alzheimer’s disease
 
-**Summary** - 
+**Summary** - Aging is the strongest risk factor for Alzheimer's disease (AD), although the underlying mechanisms remain unclear. The chromatin state, in particular through the mark H4K16ac, has been implicated in aging and thus may play a pivotal role in age-associated neurodegeneration. The authors compared the genome-wide enrichment of H4K16ac in the lateral temporal lobe of AD individuals against both younger and elderly cognitively normal controls. They find that while normal aging leads to H4K16ac enrichment, AD entails dramatic losses of H4K16ac in the proximity of genes linked to aging and AD. Their results establish the basis for an epigenetic link between aging and AD.
 
 **Size** - 27130 data points
 
@@ -99,7 +99,7 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Title** - Altered expression of histamine signaling genes in autism spectrum disorder
 
-**Summary** - 
+**Summary** - The histaminergic system (HS) is critical in cognition, sleep, and other behaviors. Although not well studied in autism spectrum disorder (ASD), HS is implicated in many neurological disorders, some of which share comorbidity with ASD. Preliminary studies suggest that antagonism of histamine receptors 1-3 reduces symptoms and specific behaviors in ASD patients and relevant animal models. The authors have used RNA sequencing, investigated the genome-wide expression, as well as a focused gene set analysis of key HS genes in postmortem dorsolateral prefrontal cortex initially in 13 subjects with ASD and 39 matched controls.
 
 **Size** - 57659 data points
 
@@ -118,35 +118,15 @@ Neurodegenerative diseases encompass a wide range of conditions that result from
 
 **Title** - Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection
 
-**Summary** - 
-
-**Size** - 5875 data points
-
-**Dimension** - 22 features
-
-**Format** - DATA
-
-**Language** - English
-
-**Year** - 2007
-
-## Dataset Parkinson 2
-**Publication** - https://www.nature.com/articles/npre.2008.2298.1.
-
-**Source** - https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set/
-
-**Title** - Suitability of dysphonia measurements for telemonitoring of Parkinson's disease
-
-**Summary** - 
+**Summary** - This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals. The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD. 
 
 **Size** - 195 data points
 
 **Dimension** - 23 features
 
-**Format** - DATA
+**Format** - CSV (.data)
 
 **Language** - English
 
-**Year** - 2008
-
+**Year** - 2007
 
